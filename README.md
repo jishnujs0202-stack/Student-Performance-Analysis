@@ -61,4 +61,4 @@ Created:
 The analysis shows that study time has a positive impact on student performance. Visualizations provide insights into grade distribution and gender-wise performance differences.
 
 ## Author
-Jishnu
+J S Jishnu
